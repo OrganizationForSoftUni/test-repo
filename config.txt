@@ -1,3 +1,6 @@
 name = Tsvetelina
 
-email = cvet1@abv.bg
+size = 50
+
+email = cvetelina@abv.bg
+
