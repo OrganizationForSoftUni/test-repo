@@ -1,4 +1,4 @@
 name = Tsvetelina
 
-size = 100
+size = 50
 
