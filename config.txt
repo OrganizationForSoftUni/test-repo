@@ -2,3 +2,4 @@ name = Tsvetelina
 
 size = 50
 
+email=tsvetelina@abv.bg
